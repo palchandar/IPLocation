@@ -1,7 +1,7 @@
 IPLocation
 ===========
 
-Python script for finding the country for the given IPAddress.
+Python script to find the country for the given IPAddress.
 
 [Requests module](http://docs.python-requests.org/en/latest/) installation instructions found [here](http://docs.python-requests.org/en/latest/user/install/).
 
